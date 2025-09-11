@@ -1,0 +1,82 @@
+{
+  "name": "Disaster Relief Hub",
+  "short_name": "Relief Hub",
+  "description": "AI-powered offline emergency information system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "categories": ["emergency", "medical", "safety", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-narrow.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "First Aid",
+      "short_name": "First Aid",
+      "description": "Quick access to first aid procedures",
+      "url": "/?section=first-aid",
+      "icons": [
+        {
+          "src": "/shortcut-first-aid.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "AI Assistant",
+      "short_name": "AI Help",
+      "description": "Get AI-powered emergency assistance",
+      "url": "/?section=ai-assistant",
+      "icons": [
+        {
+          "src": "/shortcut-ai.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Protocols",
+      "short_name": "Protocols",
+      "description": "Access emergency response protocols",
+      "url": "/?section=protocols",
+      "icons": [
+        {
+          "src": "/shortcut-protocols.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr"
+}
