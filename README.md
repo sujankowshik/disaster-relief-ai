@@ -2,7 +2,6 @@
 
 *An offline-capable AI-powered emergency information system for disaster response and relief operations*
 
-(https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sujan-kowshik-jillas-projects/v0-disaster-relief-ai)
 
 ## 🎯 Overview
 
