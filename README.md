@@ -76,20 +76,7 @@ The **Disaster Relief AI Hub** is a comprehensive, offline-capable emergency inf
 - **Bundle Analysis**: Minimized JavaScript payload
 - **Memory Management**: Efficient resource utilization
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn package manager
-- Modern web browser with service worker support
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/sujankowshik/disaster-relief-ai.git
-
-# Navigate to project directory
-cd disaster-relief-ai
 
 # Install dependencies
 npm install
